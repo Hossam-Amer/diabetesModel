@@ -1,4 +1,4 @@
-# diabetesModel
+# Diabetes Model
 
 
 Diabetes model due to it's small data set and alot of outliers the model was very poor in predicion.
